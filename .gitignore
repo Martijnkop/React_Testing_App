@@ -1,0 +1,9 @@
+*.suo
+*.dll
+*.exe
+*.pdb
+*.cache
+*.CopyComplete
+
+*/debug
+*/build
